@@ -19,20 +19,6 @@ $large-screen: 60px;
     display: none;
 }
 
-.lt-ie9 {
-    .ms-header {
-        .ms-header__logo {
-            background-position: 5px 7px ;
-            background-image: url('../img/mysociety-logo.png');
-        }
-    }
-    .brand-header__title-unit {
-        .brand-header__title {
-            line-height: 84px;
-        }
-    }
-}
-
 .lt-ie9 .sections {
     &.primary-navigation-bar {
         li {
